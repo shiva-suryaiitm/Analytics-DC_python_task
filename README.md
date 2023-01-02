@@ -7,7 +7,7 @@
 consist of random numbers between [0,1) and 𝑦 should contain 0𝑠 and
 1𝑠, for example, 𝑦=[0,1,1,0,1,0,0,1,...,1]. Compute the given expression:
     
-    ![loss](https://github.com/aquantumreality/Coordinator-Task-1/blob/main/cross-entropy.png)
+    ![loss](https://github.com/shiva-suryaiitm/Analytics-DC_python_task/blob/main/Cross%20entropy%20loss.png)
     
     Where n = 100, is the total number of elements in y and 𝑦̂
     
