@@ -1,5 +1,24 @@
 # Analytics-DC_python_task
-# Coordinator-Task-1
+# Deputy-Coordinator-Task-1
+
+
+- Fork and clone this Github repository.
+- Create a new branch and set its name to your “Name”.
+- Create a folder named "Name" (or Handle) in which you have all the
+contents of whatever submission you wanna make (solutions to
+question 1 and 2).
+- Merge your branch with the master branch.
+- Pull origin & add files, commit and push to fork.
+- Create pull request on main repo
+- Create Issue
+
+Resources for **Getting Started with Git:**
+
+- Part 1 - [https://www.youtube.com/watch?v=uR6G2v_WsRA&ab_channel=DavidMahler](https://www.youtube.com/watch?v=uR6G2v_WsRA&ab_channel=DavidMahler)
+- Part 2 - [https://www.youtube.com/watch?v=FyAAIHHClqI&ab_channel=DavidMahler](https://www.youtube.com/watch?v=FyAAIHHClqI&ab_channel=DavidMahler)
+- Part 3 - [https://www.youtube.com/watch?v=Gg4bLk8cGNo&ab_channel=DavidMahler](https://www.youtube.com/watch?v=Gg4bLk8cGNo&ab_channel=DavidMahler)
+
+There’s 2 questions in the task to help you get comfortable with python, do try both of them out.
 
 **Python Tasks:**
 
